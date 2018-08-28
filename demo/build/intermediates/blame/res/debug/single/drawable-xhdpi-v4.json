@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/amu_bubble_mask.9.png",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/library/build/intermediates/bundles/default/res/drawable-xhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/walter.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/walter.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/turtle.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/turtle.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/gran.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/gran.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/john.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/john.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/yeats.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/yeats.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/amu_bubble_shadow.9.png",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/library/build/intermediates/bundles/default/res/drawable-xhdpi-v4/amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mechanic.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/mechanic.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/teacher.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/teacher.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ruth.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/ruth.jpg"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/stefan.jpg",
+        "source": "/Users/rnandyala/Desktop/android-maps-utils/demo/res/drawable-xhdpi/stefan.jpg"
+    }
+]

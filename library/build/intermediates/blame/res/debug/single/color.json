@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/library/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/library/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rnandyala/Desktop/android-maps-utils/library/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rnandyala/.android/build-cache/f8f991893b07b04351162ee5d0da1b19a3a7f13c/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
